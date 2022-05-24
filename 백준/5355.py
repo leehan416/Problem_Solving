@@ -8,4 +8,4 @@ for i in range(int(input())):
       val +=5
     elif i== "#":
       val -=7
-  print ("%.2f" % val)
+  print ("%.2f" % val) 
