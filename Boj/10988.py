@@ -1,0 +1,5 @@
+n=input()
+l=list(n)
+l.reverse()
+m="".join(l)
+print(1 if n == m else 0)
